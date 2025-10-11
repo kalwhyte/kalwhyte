@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There!+👋;I'm+Ejiofor+Emmanuel+Arinze+(Whyte)!;IT+Specialist+%26+Software+Engineer!;ALX+SE+Graduate+(Cohort+10)!;Building+Cool+Stuff+That+Actually+Works!&font=Fira%20Code&center=true&width=900&height=60&duration=4000&pause=1000">
-</p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+Hacker+Mode...;User:+Whyte_Emmanuel_Arinze;Access+Level:+
+
 <!-- markdownlint-enable MD033 -->
 
 <!-- markdownlint-disable MD033 MD041 -->
