@@ -4,6 +4,12 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Running+Tests...;Initializing+Whyte's+Dev+Environment...;Loading+Modules:+Node.js,+Django,+React,+Redux,+Docker;Status:+All+Systems+Operational!;Welcome+to+My+GitHub+Profile!&font=Fira%20Code&center=true&width=950&height=60&duration=4000&pause=1000">
+</p>
+<!-- markdownlint-enable MD033 -->
+
 ---
 
 ### 🧑‍💻 About Me
