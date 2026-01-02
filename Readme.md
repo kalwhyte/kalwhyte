@@ -1,81 +1,63 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+Hacker+Mode...;User:+Whyte_Emmanuel_Arinze;Access+Level:+
+# ⚡ System.init("Ejiofor Emmanuel Arinze")
 
-<!-- markdownlint-enable MD033 -->
-
-<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Running+Tests...;Initializing+Whyte's+Dev+Environment...;Loading+Modules:+Node.js,+Django,+React,+Redux,+Docker;Status:+All+Systems+Operational!;Welcome+to+My+GitHub+Profile!&font=Fira%20Code&center=true&width=950&height=60&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+Hacker+Mode...;User:+Whyte_Emmanuel_Arinze;Access+Level:+Full+Stack+Engineer+|+Ethical+Hacker;Status:+System+Optimal&font=Fira+Code&center=true&width=950&height=60&duration=4000&pause=1000">
 </p>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Executive Summary
+I am a **Software Engineer** and **IT Specialist** with a focus on high-availability backend systems and defensive security. An **ALX Software Engineering Alumnus (Cohort 10)**, I bridge the gap between robust software architecture and proactive security protocols. I don't just build features; I engineer resilient environments.
 
-Hi there! I’m **Ejiofor Emmanuel Arinze (Whyte)** — an **IT Specialist**, **Software Engineer**, and proud **ALX Software Engineering Graduate (Cohort 10)**.  
-I bridge the worlds of **IT operations** and **software development**, crafting reliable systems, seamless APIs, and powerful backend services.
-
-I’m passionate about **clean architecture**, **security**, and **scalable software**, and I love building solutions that make tech work smarter for real-world problems.
-
-> ⚙️ “I don’t just write code — I engineer systems.”
+- 🛡️ **Defensive Mindset:** Integrating security (OWASP Top 10) into the CI/CD pipeline.
+- 🏗️ **Architectural Integrity:** Specialist in RESTful APIs, Microservices, and Scalable DB Design.
+- ⚙️ **The Philosophy:** "Security is not an afterthought; it is a foundational requirement."
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Technical Arsenal
 
-#### 💻 Core Skills
-`JavaScript` • `TypeScript` • `Python` • `Node.js` • `Django` • `Express.js`  
-`React` • `Redux Toolkit` • `HTML5` • `CSS3` • `TailwindCSS` • `REST API`  
-
-#### 🗄️ Databases
-`MongoDB` • `PostgreSQL` • `MySQL`  
-
-#### 🐳 DevOps & Tools
-`Docker` • `Git & GitHub` • `Render` • `Vercel` • `Linux` • `Postman` • `Redis (in progress)`  
-
-#### 🔐 Areas of Interest
-- Backend Engineering & API Design  
-- Cloud Infrastructure & DevOps  
-- Cybersecurity & Ethical Hacking (White Hat Path)  
-- Frontend Architecture & State Management  
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Core** | `Python (Django/Flask)` • `Node.js (Express)` • `TypeScript` • `JavaScript` |
+| **Frontend** | `React.js` • `Redux Toolkit` • `TailwindCSS` • `HTML5/CSS3` |
+| **Databases** | `PostgreSQL` • `MongoDB` • `MySQL` • `Redis` |
+| **Security & DevOps** | `Kali Linux` • `Docker` • `Git/GitHub` • `CI/CD` • `Pentesting` |
+| **Cloud & Hosting** | `Render` • `Vercel` • `AWS (Learning)` • `Linux SysAdmin` |
 
 ---
 
-### 🧠 What I’m Currently Up To
-- 🧩 Enhancing my backend stack with **Redis**, **WebSockets**, and **microservices**.  
-- ⚡ Building **“Electron World Online Shopping”**, a scalable e-commerce platform with React & Node.js.  
-- 🔍 Exploring **white-hat hacking** and cybersecurity automation tools.  
+### 📊 Git Statistics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalwhyte&show_icons=true&theme=tokyonight&count_private=true" alt="Whyte's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalwhyte&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+#### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalwhyte&theme=tokyo-night)
 
 ---
 
-### 🌐 Connect With Me
+### 🧠 Current Research & Development
+- 🔐 **White-Hat Hacking:** Studying network vulnerability assessment and automated exploit detection.
+- ⚡ **Real-time Systems:** Implementing **WebSockets** and **Redis** for sub-millisecond data synchronization.
+- 🛒 **Flagship Project:** Architecting *Electron World*, a secure, full-scale e-commerce ecosystem.
+
+---
+
+### 🤝 Strategic Collaboration
+I am open to high-stakes projects requiring a blend of backend engineering and security expertise. If you are building something that needs to be **fast, scalable, and unhackable**, let’s connect.
 
 <p align="left">
-  <a href="https://twitter.com/kalwhyte" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/ejiofor-emmanuel-15542417b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:superkalel55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="mailto:superkalel55@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/YahooMail-6001D2?style=flat&logo=yahoo&logoColor=white" alt="Yahoo Mail"/></a>
-  <a href="https://instagram.com/kal_whyte" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/kalwhyte" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/ejiofor-emmanuel-15542417b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:superkalel55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/kalwhyte" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/kalwhyte" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🤝 Collaboration
-
-I’m always open to collaborating on **serious, innovative projects** — whether it’s a backend-heavy system, a cross-platform app, or something totally experimental.  
-
-If you’re building something ambitious and need a solid engineer to bring it to life, **let’s talk**.  
-You can find me on GitHub, LinkedIn, or Slack if you’re part of **ALX Cohort 10**.
-
-> 💬 “Let’s turn bold ideas into functional reality.”
-
----
-
-<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Building+Keep+Learning!;The+Future+Belongs+to+the+Curious!;Let’s+Connect+and+Create!&font=Fira%20Code&center=true&width=850&height=45&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Building+Keep+Securing!;The+Future+is+Code+and+Logic.;Let’s+Build+Something+Impactful!&font=Fira+Code&center=true&width=850&height=45&duration=4000&pause=1000">
 </p>
-<!-- markdownlint-enable MD033 -->
