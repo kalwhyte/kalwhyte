@@ -1,81 +1,98 @@
-<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Initializing+Hacker+Mode...;User:+Whyte_Emmanuel_Arinze;Access+Level:+
-
-<!-- markdownlint-enable MD033 -->
-
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Running+Tests...;Initializing+Whyte's+Dev+Environment...;Loading+Modules:+Node.js,+Django,+React,+Redux,+Docker;Status:+All+Systems+Operational!;Welcome+to+My+GitHub+Profile!&font=Fira%20Code&center=true&width=950&height=60&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Backend+Focused;Building+Scalable+and+Secure+Systems;Clean+Architecture+Over+Hacks&font=Fira%20Code&center=true&width=850&height=55&duration=3500&pause=1000" />
 </p>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-### 🧑‍💻 About Me
+## 👋 About Me
 
-Hi there! I’m **Ejiofor Emmanuel Arinze (Whyte)** — an **IT Specialist**, **Software Engineer**, and proud **ALX Software Engineering Graduate (Cohort 10)**.  
-I bridge the worlds of **IT operations** and **software development**, crafting reliable systems, seamless APIs, and powerful backend services.
+I’m **Ejiofor Emmanuel Arinze (Whyte)** — a **Software Engineer** and **IT Specialist**, with a strong focus on **backend engineering**, **system design**, and **infrastructure reliability**.  
+I’m an **ALX Software Engineering Graduate (Cohort 10)** with hands-on experience building production-grade APIs, scalable services, and modern web applications.
 
-I’m passionate about **clean architecture**, **security**, and **scalable software**, and I love building solutions that make tech work smarter for real-world problems.
+I care deeply about:
+- Maintainable, clean architecture  
+- Security-first engineering  
+- Systems that scale without drama  
 
-> ⚙️ “I don’t just write code — I engineer systems.”
+> *I don’t just write code — I design systems that last.*
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-#### 💻 Core Skills
-`JavaScript` • `TypeScript` • `Python` • `Node.js` • `Django` • `Express.js`  
-`React` • `Redux Toolkit` • `HTML5` • `CSS3` • `TailwindCSS` • `REST API`  
+### Languages & Frameworks
+- **JavaScript / TypeScript**
+- **Python**
+- **Node.js**, **Express.js**
+- **Django**
+- **React**, **Redux Toolkit**
 
-#### 🗄️ Databases
-`MongoDB` • `PostgreSQL` • `MySQL`  
+### Databases
+- **PostgreSQL**
+- **MongoDB**
+- **MySQL**
 
-#### 🐳 DevOps & Tools
-`Docker` • `Git & GitHub` • `Render` • `Vercel` • `Linux` • `Postman` • `Redis (in progress)`  
+### DevOps & Tooling
+- **Docker**
+- **Git & GitHub**
+- **Linux**
+- **Redis** (in progress)
+- **Postman**
+- **Vercel**, **Render**
 
-#### 🔐 Areas of Interest
+### Areas of Focus
 - Backend Engineering & API Design  
-- Cloud Infrastructure & DevOps  
-- Cybersecurity & Ethical Hacking (White Hat Path)  
-- Frontend Architecture & State Management  
+- Distributed Systems & Microservices  
+- DevOps & Cloud Infrastructure  
+- Cybersecurity & Ethical Hacking (White Hat Track)  
 
 ---
 
-### 🧠 What I’m Currently Up To
-- 🧩 Enhancing my backend stack with **Redis**, **WebSockets**, and **microservices**.  
-- ⚡ Building **“Electron World Online Shopping”**, a scalable e-commerce platform with React & Node.js.  
-- 🔍 Exploring **white-hat hacking** and cybersecurity automation tools.  
+## 🚧 Current Work
+- Scaling backend systems with **Redis**, **WebSockets**, and **service-oriented architecture**
+- Building **Electron World Online Shopping**, a full-stack e-commerce platform
+- Deepening skills in **cybersecurity automation** and defensive engineering
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalwhyte&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalwhyte&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalwhyte&theme=minimal&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/kalwhyte" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/ejiofor-emmanuel-15542417b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:superkalel55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="mailto:superkalel55@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/YahooMail-6001D2?style=flat&logo=yahoo&logoColor=white" alt="Yahoo Mail"/></a>
-  <a href="https://instagram.com/kal_whyte" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/kalwhyte" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/kalwhyte"><img src="https://img.shields.io/badge/Twitter-Professional?style=flat&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/ejiofor-emmanuel-15542417b"><img src="https://img.shields.io/badge/LinkedIn-Professional?style=flat&logo=linkedin" /></a>
+  <a href="mailto:superkalel55@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/kalwhyte"><img src="https://img.shields.io/badge/GitHub-Portfolio?style=flat&logo=github" /></a>
 </p>
 
 ---
 
-### 🤝 Collaboration
+## 🤝 Collaboration
 
-I’m always open to collaborating on **serious, innovative projects** — whether it’s a backend-heavy system, a cross-platform app, or something totally experimental.  
+I’m open to collaborating on:
+- Backend-heavy systems
+- Scalable platforms
+- Infrastructure or DevOps-focused projects
+- Serious long-term products (startups, SaaS, internal tools)
 
-If you’re building something ambitious and need a solid engineer to bring it to life, **let’s talk**.  
-You can find me on GitHub, LinkedIn, or Slack if you’re part of **ALX Cohort 10**.
+If you value **clarity, structure, and execution**, we’ll work well together.
 
-> 💬 “Let’s turn bold ideas into functional reality.”
+> *Strong systems are built deliberately — not accidentally.*
 
 ---
 
-<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Building+Keep+Learning!;The+Future+Belongs+to+the+Curious!;Let’s+Connect+and+Create!&font=Fira%20Code&center=true&width=850&height=45&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Build+Systems.+Ship+Value.;Consistency+Beats+Talent.;Let’s+Build+Something+That+Matters.&font=Fira%20Code&center=true&width=850&height=45&duration=3500&pause=1000" />
 </p>
-<!-- markdownlint-enable MD033 -->
