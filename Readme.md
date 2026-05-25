@@ -56,15 +56,7 @@ I care deeply about:
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalwhyte&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalwhyte&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalwhyte&theme=minimal&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
